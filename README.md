@@ -8,7 +8,8 @@ https://github.com/ieee8023/covid-chestxray-dataset
 #### Kaggle X-Ray Chest Images
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 ### authors:
-Ali EL-Alaoui
-Amal Chatir
-Ibtissam Rhayou
-Imane Bouayad
+* Ali EL-Alaoui
+* Imane Bouayad
+* Amal Chatir
+* Ibtissam Rhayou
+
